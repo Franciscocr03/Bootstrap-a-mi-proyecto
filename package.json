@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "download": "^8.0.0"
+  },
+  "name": "tp-final-copia",
+  "version": "1.0.0",
+  "description": "Copia de mi proyecto final",
+  "main": "index.js",
+  "devDependencies": {
+    "node-sass": "^7.0.1",
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Franciscocr03/Bootstrap-a-mi-proyecto.git"
+  },
+  "keywords": [
+    "Francisco",
+    "Cabeza",
+    "Rodriguez"
+  ],
+  "author": "Francisco Cabeza Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Franciscocr03/Bootstrap-a-mi-proyecto/issues"
+  },
+  "homepage": "https://github.com/Franciscocr03/Bootstrap-a-mi-proyecto#readme"
+}
